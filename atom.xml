@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>徐勤强的博客</title>
-  <icon>https://www.gravatar.com/avatar/69ebd439b4278ace0844972876f7dccc</icon>
+  
   <subtitle>徐勤强的博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
@@ -10,8 +10,8 @@
   <id>http://xuqinqiang.club/</id>
   
   <author>
-    <name>徐勤强</name>
-    <email>xuqinqiang666@126.com</email>
+    <name>[object Object]</name>
+    
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
