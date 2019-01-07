@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>徐勤强的博客</title>
-  
-  <subtitle>github https://github.com/xiaogehenjimo</subtitle>
+  <icon>https://www.gravatar.com/avatar/88ccf9e34ad28344f42b782f3c3bc607</icon>
+  <subtitle>徐勤强的博客</subtitle>
   <link href="/child/atom.xml" rel="self"/>
   
   <link href="xuqinqiang.club/"/>
@@ -11,7 +11,7 @@
   
   <author>
     <name>徐勤强</name>
-    
+    <email>chenxiaowu1994@outlook.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
