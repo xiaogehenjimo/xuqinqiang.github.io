@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>XQQNSObject</title>
+  <title>徐勤强的博客</title>
   
-  
+  <subtitle>github https://github.com/xiaogehenjimo</subtitle>
   <link href="/child/atom.xml" rel="self"/>
   
   <link href="xuqinqiang.club/"/>
