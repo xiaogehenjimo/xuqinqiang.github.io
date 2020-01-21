@@ -5,9 +5,9 @@
   <subtitle>徐勤强的博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://xuqinqiang.club/"/>
+  <link href="http://xuqinqiang.site/"/>
   <updated>2019-04-23T03:15:11.223Z</updated>
-  <id>http://xuqinqiang.club/</id>
+  <id>http://xuqinqiang.site/</id>
   
   <author>
     <name>[object Object]</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>搭建Shadowsocks</title>
-    <link href="http://xuqinqiang.club/2019/01/07/%E6%90%AD%E5%BB%BAShadowsocks/"/>
-    <id>http://xuqinqiang.club/2019/01/07/搭建Shadowsocks/</id>
+    <link href="http://xuqinqiang.site/2019/01/07/%E6%90%AD%E5%BB%BAShadowsocks/"/>
+    <id>http://xuqinqiang.site/2019/01/07/搭建Shadowsocks/</id>
     <published>2019-01-07T06:52:09.000Z</published>
     <updated>2019-04-23T03:15:11.223Z</updated>
     
@@ -36,7 +36,7 @@
     </summary>
     
     
-      <category term="技术" scheme="http://xuqinqiang.club/tags/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://xuqinqiang.site/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
